@@ -72,6 +72,13 @@
   + https://flutter.dev/docs/testing
   + https://medium.com/flutter/test-flutter-apps-on-travis-3fd5142ecd8c
 
+### Debugging Flutter Apps
+
+  + https://flutter.dev/docs/testing/code-debugging
+  + https://flutter.dev/docs/testing/code-debugging#logging
+  + https://flutter.dev/docs/testing/code-debugging#setting-breakpoints
+  + Hmm only see print statements when running via the terminal
+
 ## Dart Language Reference
 
   + https://dart.dev/guides/language
