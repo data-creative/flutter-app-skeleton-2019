@@ -3,7 +3,7 @@
 ## Previous Version of the App
 
   + https://github.com/data-creative/NextTrainCT
-  +
+
 ## Flutter Installation on Mac
 
   + https://appdividend.com/2018/12/10/how-to-install-flutter-on-mac/
@@ -67,11 +67,12 @@
   + https://api.flutter.dev/flutter/material/MaterialApp-class.html
   + https://www.youtube.com/watch?v=DL0Ix1lnC4w
 
-### Testing
+### Testing Flutter Apps
 
   + https://flutter.dev/docs/testing
+  + https://medium.com/flutter/test-flutter-apps-on-travis-3fd5142ecd8c
 
-## Dart Language
+## Dart Language Reference
 
   + https://dart.dev/guides/language
   + https://dart.dev/guides/language/language-tour
