@@ -1,16 +1,27 @@
-# next_train_ct
+# Next Train CT
 
 Search train schedules for the Shore Line East transit agency in Connecticut, USA.
 
-## Getting Started
+## Setup
 
-This project is a starting point for a Flutter application.
+Determine whether all prerequisites have been satisfied:
 
-A few resources to get you started if this is your first Flutter project:
+```sh
+flutter doctor
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Usage
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Run locally on an emulator:
+
+```sh
+flutter run # or press "F5" in VS Code
+```
+
+## Testing
+
+Run tests:
+
+```sh
+flutter test
+```
