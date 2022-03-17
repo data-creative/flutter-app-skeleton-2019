@@ -1,6 +1,5 @@
-# next_train_ct
+# Flutter App Skeleton
 
-Search train schedules for the Shore Line East transit agency in Connecticut, USA.
 
 ## Getting Started
 
